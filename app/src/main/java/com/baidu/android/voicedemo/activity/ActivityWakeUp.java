@@ -8,7 +8,7 @@ import com.baidu.android.voicedemo.wakeup.IWakeupListener;
 import com.baidu.android.voicedemo.wakeup.RecogWakeupListener;
 import com.baidu.android.voicedemo.wakeup.SimpleWakeupListener;
 import com.baidu.speech.asr.SpeechConstant;
-import com.baidu.speech.recognizerdemo.R;
+import com.zhiweiyan.speech.R;
 
 import java.util.HashMap;
 import java.util.Map;

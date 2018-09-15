@@ -1,6 +1,6 @@
 package com.baidu.android.voicedemo.activity.setting;
 
-import com.baidu.speech.recognizerdemo.R;
+import com.zhiweiyan.speech.R;
 
 /**
  * Created by fujiayi on 2017/8/18.

@@ -33,7 +33,7 @@ import android.widget.ListView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.baidu.speech.recognizerdemo.R;
+import com.zhiweiyan.speech.R;
 
 import java.util.MissingResourceException;
 import java.util.Random;

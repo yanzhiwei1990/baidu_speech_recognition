@@ -15,7 +15,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import com.baidu.android.voicedemo.util.Logger;
-import com.baidu.speech.recognizerdemo.R;
+import com.zhiweiyan.speech.R;
 import com.baidu.android.voicedemo.recognization.inputstream.InFileStream;
 
 import java.util.ArrayList;
